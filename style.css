@@ -1,0 +1,14 @@
+#title {
+  background-color: brown;
+}
+
+textarea + button {
+  color: palevioletred;
+}
+
+ul li {
+  color: palevioletred;
+}
+tr > td:nth-child(2) {
+  color: palevioletred;
+}
